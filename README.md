@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi, I'm Ciprian 🫡
+
+- 💯 I deliver projects with React and Angular
+- 📖 I'm learning Jenkins at the moment
+- 💼 You can connect with me on [LinkedIn](https://www.linkedin.com/in/ciprian-botnari-b15a5b286/)
+- ♟️ You can move chess pieces with me [here](https://www.chess.com/member/1ciprian1)
+- 🗡️ Medallion's *humming*, must be a place of **power**
 
 <!--
 **Sufferal/Sufferal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
