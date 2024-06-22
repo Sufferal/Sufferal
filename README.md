@@ -1,10 +1,24 @@
-## Hi, I'm Ciprian 🫡
+# Hi, I'm Ciprian 🫡
 
-- 💯 I deliver projects with React and Angular
+- 💯 I deliver projects with React, Angular and Vue
 - 📖 I'm learning Jenkins at the moment
 - 💼 You can connect with me on [LinkedIn](https://www.linkedin.com/in/ciprian-botnari-b15a5b286/)
 - ♟️ You can move chess pieces with me [here](https://www.chess.com/member/1ciprian1)
 - 🗡️ Medallion's *humming*, must be a place of **power**
+
+## 🧩 Frameworks
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="55" height="55"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" alt="Angular" width="55" height="55"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="Vue" width="55" height="55"/>
+</div>
+
+## 📚 Languages
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="React" width="55" height="55"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="55" height="55"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP" width="55" height="55"/>
+</div>
 
 <!--
 **Sufferal/Sufferal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
