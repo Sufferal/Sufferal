@@ -3,8 +3,8 @@
 - 💯 I deliver projects with React, Angular and Vue
 - 📖 I'm learning Jenkins at the moment
 - 💼 You can connect with me on [LinkedIn](https://www.linkedin.com/in/ciprian-botnari-b15a5b286/)
-- ♟️ You can move chess pieces with me [here](https://www.chess.com/member/1ciprian1)
-- 🗡️ Medallion's *humming*, must be a place of **power**
+- 🎯 And you can check out my portfolio while you are [here](https://sufferal.github.io/portfolio/)
+- 🗡️ *Medallion's humming, must be a place of power*
 
 ## 🧩 Frameworks
 <div>
