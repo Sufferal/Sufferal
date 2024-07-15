@@ -1,7 +1,7 @@
 # Hi, I'm Ciprian 🫡
 
 - 💯 I deliver projects with React, Angular and Vue
-- 📖 I'm learning Jenkins at the moment
+- 📖 I'm learning Redux at the moment
 - 💼 You can connect with me on [LinkedIn](https://www.linkedin.com/in/ciprian-botnari-b15a5b286/)
 - 🎯 And you can check out my portfolio while you are [here](https://sufferal.github.io/portfolio/)
 - 🗡️ *Medallion's humming, must be a place of power*
