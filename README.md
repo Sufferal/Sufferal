@@ -6,4 +6,4 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/ciprian-botnari-b15a5b286/)
 - 🎯 [Portfolio](https://sufferal.github.io/portfolio/)
 
-![Github Cover](./img/github_cover.png)
+<img src="./img/github_cover.png" alt="Github Cover" width="500"/>
